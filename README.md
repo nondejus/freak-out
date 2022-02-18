@@ -1,2 +1,0 @@
-# freak-out
-mac os
